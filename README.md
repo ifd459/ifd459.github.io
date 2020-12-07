@@ -1,3 +1,1 @@
-Welcome to my fabulous readMe file! This repository is essentially a link to the inner workings of my mind.
-Please enjoy the mashup of dutch and english, interesting programming choices and overall excitement 
-about how much the world can achieve with the almighty Computer.
+My name is Belle and I'm a junior Java developer. I'm enthusiastic, sociable and eager to contribute to projects and expand my knowledge.
