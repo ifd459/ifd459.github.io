@@ -4,7 +4,7 @@
     padding: 3px;
     padding-top: 70px;
     padding-bottom: 70px;
-    background-color: #005246;
+    background-color: #e74429;
     color: #FEF0CA;
     font-size: 30px;
 }
@@ -17,16 +17,41 @@
 }
 
 body {
-    background-color:#B2AB99;
+    background-color:#feecc7;
   }
   
 p {
-    color: rgb(18, 4, 49);
+    color: #f2cbc4;
   }
 
-footer {
+  .container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 90%;
+    justify-content: center;
+    margin-right: 50px;
+    margin-left: 50px;
+  }
+
+footer {    
     text-align: center;
     padding: 3px;
     background-color: #005246;
     color: white;
+}
+table, th, td {
+    margin: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border: 1px solid black;
+    border-collapse: collapse;
+    max-width: 95%;
+  }
+  table {
+    table-layout: fixed;
+  }
+
+h2 {
+    text-decoration: underline;
+    text-align: center;
 }
